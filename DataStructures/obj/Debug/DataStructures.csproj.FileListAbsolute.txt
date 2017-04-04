@@ -1,5 +1,0 @@
-C:\Users\tyler.azevedo\Git Repo\Algorithms\Algorithms\DataStructures\bin\Debug\DataStructures.dll
-C:\Users\tyler.azevedo\Git Repo\Algorithms\Algorithms\DataStructures\bin\Debug\DataStructures.pdb
-C:\Users\tyler.azevedo\Git Repo\Algorithms\Algorithms\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
-C:\Users\tyler.azevedo\Git Repo\Algorithms\Algorithms\DataStructures\obj\Debug\DataStructures.dll
-C:\Users\tyler.azevedo\Git Repo\Algorithms\Algorithms\DataStructures\obj\Debug\DataStructures.pdb
